@@ -1,0 +1,81 @@
+/* Resetten */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    background-color: blue;
+}
+
+body {
+    background-color: green;
+    font-size: 21px;
+}
+
+header {
+    width: 50%;
+    height: 200px;
+    background-color: red;
+    margin: auto;
+    line-height: 200px;
+    border: 2px solid white;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+}
+
+img {
+    width: 382px;
+    border: 1px solid white;
+}
+
+
+.div1 {
+    display: flex;
+}
+
+#p1 {
+    text-align: left;
+    background-color: white;
+    color: black;
+    padding: 5px;
+    font-family: arial;
+}
+
+div {
+    width: 50%;
+    margin: auto;
+    display: flex;
+    background-color: #800080;
+}
+
+button {
+    background-color: blueviolet;
+    color: white;
+    font-size: 27px;
+    font-weight: bold;
+    width: 200px;
+    height: 75px;
+    border: 1px solid black;
+}
+
+footer {
+    background-color: blue;
+    width: 50%;
+    margin: auto;
+    height: 123px;
+    line-height: 123px;
+}
+
+p {
+    color: white;
+    font-family: "Open Sans", sans-serif;
+    font-size: 17px;
+    text-align: center;
+}
