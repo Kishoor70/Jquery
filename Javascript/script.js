@@ -23,33 +23,3 @@ $("document").ready(function() {
 });
 
 // Einde Jquery
-
-
-
-
-
-
-// $("document").ready(function() {
-//     $("#btn1").click(function() {
-//         $("#roos1").slideUp(4000);
-//     }
-
-// )
-// $("#btn2").click(function() {
-//     $("#roos1").slideDown(4000);
-// }
-
-// )
-
-// $("#btn3").click (function() {
-//     $("#roos1)").slideUp(2000);
-// })
-
-// $("#btn4").click(function() {
-//     $("#roos1").slideDown(2000);
-// })
-
-// });
-
-
-
